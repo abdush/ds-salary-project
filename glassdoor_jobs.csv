@@ -1,0 +1,314 @@
+Company Name,Competitors,Founded,Headquarters,Industry,Job Description,Job Title,Location,Rating,Revenue,Salary Estimate,Sector,Size,Type of ownership
+"Faire
+4.3",Shopify,2016,"San Francisco, CA",Wholesale,"Faire is using machine learning to change wholesale and help local retailers compete with Amazon and big box stores. Our experienced data scientists and machine learning engineers are tackling recommendations, ranking, search, logistics, underwriting, and more - all with the goal of helping local retail thrive.
+
+Job Description
+
+The Data Science team owns a wide variety of algorithms and models that power the marketplace. We care about building machine learning models that help our customers thrive. The data science team helps answer questions like; How do we underwrite retailers with thin files? How do we optimally assign term limits to Faire retailers? How to minimize the risk of defaults while maximizing the share of wallet growth driven by net terms? What data sources should we invest in to improve the performance of our credit models?
+
+We're looking for someone who's comfortable working on the cutting edge of machine learning research. You're happy working autonomously and delivering results without micromanagement. You wake up ready to take a problem end-to-end, dive into the guts of our information-rich databases, and produce actionable insights. You can't wait to push the boundaries and discover the next big thing, then share it with your peers. You are, or will be, world-class in credit risk and help lead the wider data community. Faire will soon be known as a top destination for data scientists and machine learning, and you will help take us there!
+
+You're excited about this role because
+You'll be able to work on cutting edge credit underwriting problems combining a wide variety of data about our retailers, makers and products
+You are passionate about solving problems in the FinTech space with innovative machine learning techniques and using alternate data sources for risk management
+You want to use machine learning to help local retailers and independent makers succeed
+You want to be a foundational member of a fast-growing company
+Qualifications
+3+ years of industry experience in developing, testing, and validating credit risk models in the financial services industry
+Experience applying with either boosted trees models, decision trees, or other models to solve credit underwriting problems
+Strong skills in statistics, probability, and/or machine learning
+A track record of solving problems using data science. The tooling/language isn't important. (e.g., numpy, pandas, scikit-learn, R, etc.)
+Experience with relational databases and SQL
+Relentless resourcefulness and the ability to thrive in a startup -- you're willing to do what needs to be done for the success of your team
+The ability to self-regulate and get stuff done with minimal direct supervision
+Strong communication skills and the ability to work with others in a closely collaborative team environment.
+Nice to have:
+MSc or PhD in any mathematical or statistical subject, e.g.: mathematics, statistics, computer science, astrophysics, neuroscience, operations research, economics, any of the physical sciences
+Experience with capital markets reporting and credit line management is a plus
+What We Offer:
+We're growing fast. You will get in on the ground floor of something that's going to be special.
+We're funded by the best VCs in the world.
+Our founding team is experienced and led the development of one of the top 25 apps in the US App Store (Square Cash).
+Great technology stack. It's fun to work with the best tools and the latest software.
+The business makes sense. It's straightforward, provides clear value to both retailers and makers. You get to help change an entire industry for the better.
+It's beautiful. Work on something that's well-designed, following the footsteps of Apple and Square.
+About Faire
+
+Faire is an innovative online marketplace that uses machine learning to match local retailers with the makers of products that uniquely fit their stores. We are using the power of technology to connect makers and boutiques from all over the world, building a thriving community of over 50,000 small business owners.
+
+Our mission is to empower entrepreneurs to chase their dreams. We believe entrepreneurship is a calling. It's a way of life that offers people a level of autonomy and fulfillment that's become difficult to find elsewhere in our economy. Most of our customers have left behind jobs they hated to take a chance on themselves. We want to make sure their boldness and self-belief gets rewarded.
+
+This mission also extends to the way we are building the company. Every member of our team is an owner of the business and taking part in the founding process.
+
+Faire is being built for entrepreneurs, by entrepreneurs.",Lead Data Scientist - Underwriting Algorithms,"San Francisco, CA",4.3,Unknown / Non-Applicable,$119K-$186K (Glassdoor Est.),Business Services,201 to 500 employees,Company - Private
+"Figure
+4.4",-1,2018,"San Francisco, CA",Lending,"About Figure
+
+At Figure, we're on a mission to transform financial services through blockchain, bringing speed, efficiency and savings to both consumers and institutions.
+
+Accomplishing this kind of transformation requires building really big things. And we understand that building big requires a creative, team oriented and supportive environment where everyone can do their absolute best work. The Figure team is comprised of incredibly driven, innovative, collaborative and curious people who love architecting and building from scratch. Everyone at the company is encouraged to be an individual contributor but also a team collaborator.
+
+We value team members who bring an entrepreneurial mindset to every task and will embrace our culture of innovation. Every day at Figure is a journey in continuous learning yet a daily focus on getting work done that makes a difference.
+
+This is an opportunity to work with a team of proven leaders who have already created billions of dollars in value in the Fintech space. Join us!
+
+About the Role
+
+Each member of the Data team plays an integral part of what we are building at Figure. We rely on advanced techniques in machine learning, cloud platforms and big data to drive decisions across the organization. If you are interested in working with an impressive team of Data pros who collaborate and challenge each other, and want to solve interesting problems to propel the company's growth, apply now!
+
+What You'll Do
+Develop custom models and algorithms to apply to large datasets, as well as, processes for monitoring and analyzing their performance.
+Mine and analyze data from different resources, and use predictive modeling to increase and optimize customer experiences, customer acquisition, underwriting and other business outcomes.
+Assess the effectiveness and accuracy of new data sources and data gathering techniques.
+Work with stakeholders throughout the organization to identify opportunities for leveraging data to drive business decisions.
+Collaborate cross functionally to implement models and monitor outcomes.
+What We Look For
+PhD or MS in a quantitative field with 2+ years of work experience with extensive data sets
+Strong problem solving skills with an emphasis on translating real-life problems into a concrete model development strategy. Blend academic rigor with a sense of pragmatism for rapidly prototyping and delivering solutions.
+Experienced in using Python for analysis and modeling (TensorFlow is a big plus)
+Experience applying a wide range of statistical techniques to large data sets, and understanding their real-world advantages/drawbacks.
+Experience using web services (AWS, GCP), and distributed data/computing tools (Spark, Map/Reduce, Hadoop, Hive, etc.)
+Excellent cross-functional communication skills.
+Ability to thrive in a fast-paced environment.
+Benefits To You
+Competitive salary based on experience and skills
+Firm-wide performance based bonus
+Competitive stock options package as an early member of the team
+A flexible paid time off and vacation policy
+Comprehensive health, vision, dental insurance
+Company FSA, 401k, commuter benefits
+And much more to come!
+Figure will not sponsor work visas for this position. In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification form upon hire.",Sr Data Scientist,"San Francisco, CA",4.4,Unknown / Non-Applicable,$119K-$186K (Glassdoor Est.),Finance,201 to 500 employees,Company - Private
+"Autodesk
+4.0",-1,1982,"San Rafael, CA",Computer Hardware & Software,"Location: San Francisco, CA- United States
+Job ID: 20WD40666
+
+Position Overview
+Autodesk is seeking a Senior Data Scientist to join our Data Platform & Insights organization. The organization is chartered with building innovative data products and analytics solutions for Autodesk’s strategy, product, marketing, sales and customer support teams. This critical data scientist role will help us make machine intelligence an integral part of how Autodesk makes decisions and designs and builds its products.
+
+You will work alongside a product development team and apply data mining, analytics and machine learning methods to understanding how customers use, adopt and achieve successful outcomes with our products. The ideal candidate is a strong data scientist who thinks outside the box, is naturally curious, highly collaborative, and has a passion for tackling complex data-centric problems.
+
+Responsibilities
+Work on a variety of problems that seek to better understand how customers use their products and what drives deeper adoption and usage of products
+Apply your quantitative analysis, data mining and machine learning expertise to building models that make sense of user needs, usage patterns, factors that drive deeper adoption and contribute to subscriber churn
+Influence product development, strategy and roadmap prioritization
+Design and implement machine learning pipelines that improve Autodesk’s evidence-based decision-making capabilities
+Tackle complex problems requiring a creative mindset to find innovative and elegant solutions
+
+Minimum Qualifications
+BS/MS/PhD in the fields of: Mathematics, Physical Sciences, Statistics/Analytics, Computer Science, or other relevant fields
+Experience working with relational SQL and/or NoSQL databases
+Experience working with big data platforms (Hadoop, Spark, Hive)
+Fluency with one or more programming language: Python, Java, Scala, etc.
+Good understanding of CS fundamentals, e.g. algorithms and data structures
+Experience in statistical programming tools such as R, Matlab, SAS, Python data science toolkits, etc.
+Experience with data science toolkits like pandas, Jupyter, scikit, TensorFlow, etc.
+Familiarity with Statistics concepts and analysis, e.g. hypothesis testing, regression, experimental design, etc.
+Familiarity with Machine Learning techniques, e.g. classification, clustering, regularization, optimization, dimension reduction, etc.
+Good communication skills and ability to explain complex topics to both technical and non-technical audience as well",Senior Data Scientist,"San Francisco, CA",4.0,£2 to £5 billion (GBP),$119K-$186K (Glassdoor Est.),Information Technology,5001 to 10000 employees,Company - Public
+"CareDx
+2.6",Sequenom,-1,"Brisbane, CA",Biotech & Pharmaceuticals,"Headquartered in Brisbane, Calif., CareDx, Inc. is a leading precision medicine solutions company focused on the discovery, development and commercialization of clinically differentiated, high-value healthcare solutions for transplant patients and caregivers. CareDx offers products, testing services and digital healthcare solutions along the pre- and post-transplant patient journey, and is the leading provider of genomics-based information for transplant patients.
+
+Data Scientist-Machine Learning
+
+As a member of Data Sciences & Bioinformatics group you will be responsible for development of new machine/deep learning algorithms. The richness of a transplant data-lake a repository of large and complex data will provide the opportunity for implementation of these models. Individuals should have excellent working skills in multiple programming languages (R, Python) with demonstrated application development using TensorFlow/PyTorch. Additionally, a significant understanding of probabilistic and dynamic modelling in solving computational biology problems is highly desirable. Your contributions will be foundational to the companys mission of improving the lives of organ transplant patients.
+
+Responsibilities:
+
+Design, implement and support analytical data pipelines driven by TensorFlow/PyTorch
+Implement predictive, generalized linear model, Bayesian Machine Learning, neural network as needed
+Have excellent collaboration skills and be able to work with Software engineers for development of Data Lake
+Qualifications:
+
+Ph.D in Physics, Computational Biology, Computer Science, Math or Experimental biology with demonstrated Applied Math
+5+ years experience developing and deploying scalable ML models computational biology applications are particularly desirable
+Experience using TensorFlow,PyTorch, Keras, NumPy, Scipy, MLib and knowledge of ML libraries and platforms
+Professional level understanding of Docker, GitHub
+Ability to program against REST APIs is preferred
+Expertise and experience with Data Lakes data and knowledge of ETL in this regard is highly desirable
+Experience with HDFS, Apache Spark, Apache Kafka, OpenCV, Amazon EC2 is highly desirable
+A self-driven approach with an ability and desire to communicate to a non-technical audience how complex systems work and can be applied to challenging data processing problems
+A solid scientific foundation and familiarity with current literature
+Additional Details:
+
+
+Every individual at CareDx has a direct impact on our collective mission to improve the lives of organ transplant patients worldwide. We believe in taking great care of our people, so they take even greater care of our patients.
+
+Our competitive Total Rewards package includes:
+Competitive base salary and incentive compensation
+Health and welfare benefits including a gym reimbursement program
+401(k) savings plan match
+Employee Stock Purchase Plan
+Pre-tax commuter benefits
+And more!
+In addition, we have a Living Donor Employee Recovery Policy that allows up to 30 days of paid leave annually to a full-time employee who makes the selfless act of donating an organ or bone marrow.
+
+With products that are making a difference in the lives of transplant patients today and a promising pipeline for the future, its an exciting time to be part of the CareDx team. Join us in partnering with transplant patients to transform our future together.
+
+CareDx, Inc. is an Equal Opportunity Employer and participate in E-Verify program.
+******* We do not accept resumes from headhunters, placement agencies, or other suppliers that have not signed a formal agreement with us.",Data Scientist - Machine Learning,"Brisbane, CA",2.6,Unknown / Non-Applicable,$119K-$186K (Glassdoor Est.),Biotech & Pharmaceuticals,1 to 50 employees,Company - Private
+"Scale AI
+3.1",-1,2016,"San Francisco, CA",Enterprise Software & Network Solutions,"As Scale’s first Product Data Scientist, you will lead the charge on building our product analytical infrastructure and driving insights that lead to step-function improvements in how we operate. We handle millions of tasks for businesses looking to scale their ML development, and we’re looking for a talented product data scientist to help us understand it all in the service of building better products. In this role, you will apply statistical models, design and interpret experiments, build mission-critical dashboards, and help structure and order our data in the pursuit of transparency over how we operate and how we can improve.
+You will:
+Own end-to-end product analytics workflow including formulating success metrics, socializing them across the organization, and creating dashboards/reports.
+Ensure product areas are performing in line with our high expectations and be able to identify, diagnose, and recommend projects to improve our performance.
+Influence product teams through presentation of data-based recommendations.
+Identify operational efficiencies to the business that will enable Scale to continue growing sustainably.
+Design, run, and analyze experiments.
+Apply statistical models to identify root causes and predict the future performance of tasks, users, and products.
+Conduct statistical and trend analysis to identify opportunities, highlight strengths, and provide recommended corrective actions.
+Ideally you'd have:
+4-6+ years of industry experience in product data science broadly
+Strong proficiency in writing complex SQL queries
+Mastery with data science tools such as R, and/or Python
+Experience with statistical modeling and experimental design
+A detail-oriented and analytical mindset, with emphasis on accuracy
+About Us:
+At Scale, our mission is to accelerate the development of Machine Learning and AI applications across multiple markets. Our first product is a suite of APIs that allow AI teams to generate high-quality ground truth data. Our customers include OpenAI, Zoox, Lyft, Pinterest, Airbnb, nuTonomy, and many more
+
+Scale is an equal opportunity employer. We aim for every person at Scale to feel like they matter, belong, and can be their authentic selves so they can do their best work. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.","Data Scientist, Product Analytics","San Francisco, CA",3.1,Unknown / Non-Applicable,$119K-$186K (Glassdoor Est.),Information Technology,51 to 200 employees,Company - Private
+"Confluent
+4.7",-1,2014,"Mountain View, CA",Computer Hardware & Software,"Dubbed an ""open-source unicorn"" by Forbes, Confluent is the fastest-growing enterprise subscription company our investors have ever seen. And how are we growing so fast? By pioneering a new technology category with an event streaming platform, which enables companies to leverage their data as a continually updating stream of events, not as static snapshots. This innovation has led Coatue Management, Altimeter Capital and Franklin Templeton to join earlier investors Sequoia Capital, Benchmark, and Index Ventures in the recent Series E financing of a combined $250 million at a $4.5B valuation. Our product has been adopted by Fortune 100 customers across all industries, and we’re being led by the best in the space—our founders were the original creators of Apache Kafka®. We’re looking for talented and amazing team players who want to accelerate our growth, while doing some of the best work of their careers. Join us as we build the next transformative technology platform!
+
+The mission of Data Science team at Confluent is to serve as the central nervous system of all things data for the company: we build analytics infrastructures, metrics, insights, and models, to empower data-driven thinking, and optimize every part of the business. There are limitless opportunities for an ambitious data scientist to make an immediate and meaningful impact within a hyper growth start-up.
+
+We are now looking for a talented and driven individual to accelerate data science efforts and boost our Product and Sales trajectory. This person will work closely with our C-suite executives and operation teams to develop and deliver actionable recommendations to drive better and faster decisions. Successful candidates will exhibit technical acumen and business savvy, with a passion for making an impact, through creative storytelling and timely actions.
+Responsibilities:
+Build and maintain data foundations, metrics and dashboards to monitor the performance of our business in every function, and extract actionable insights
+Apply quantitative analysis, data mining, and presentation of data to fuel business growth and drive customer success
+Design and analyze experiments to test new product ideas; Convert the results into actionable recommendations
+Build data products to improve operational efficiencies organizationally to scale with a hyper growth start-up
+Inform, influence, support, and execute business decisions with senior leadership and business partners
+
+What We're Looking For:
+
+5+ years relevant industry experience working with SQL (Teradata, Oracle, MySQL, etc.) and R (or Python)
+3+ years experience in applying statistical modeling and/or machine learning
+Proficiency in data visualization (eg. Tableau, R-shiny, Python, Metabase, Looker, Matlab, etc.)
+Bachelor or advanced degree in a quantitative discipline: statistics, operations research, computer science, informatics, engineering, applied mathematics, economics, etc.
+The ability to communicate cross-functionally, derive requirements and deliver insightful analysis and/or models; ability to synthesize, simplify and explain complex problems to different types of audiences, including executives
+
+What Give You An Edge:
+
+7+ years relevant industry experience
+Experience building data warehousing and ETL pipelines
+Experience with Unix/Linux environment, Git.
+Experience in developing data apps with Python/Java, high charts, etc.
+Excellent communication skills, with the ability to synthesize, simplify and explain complex problems to different types of audiences, including executives
+Experience working with B2B data science domain: product analytics, CRM, sales effectiveness, propensity score,, segmentation, web analytics, attribution, funnel optimization, etc.
+#LI-MT1
+
+Come As You Are
+
+At Confluent, equality is a core tenet of our culture. We are committed to building an inclusive global team that represents a variety of backgrounds, perspectives, beliefs, and experiences. The more diverse we are, the richer our community and the broader our impact.
+
+Click here to review our California Candidate Privacy Notice, which describes how and when Confluent, Inc., and its group companies, collects, uses, and shares certain personal information of California job applicants and prospective employees.",Data Scientist - Product and Sales,"Mountain View, CA",4.7,£100 to £500 million (GBP),$119K-$186K (Glassdoor Est.),Information Technology,501 to 1000 employees,Company - Private
+"Formation
+3.0",-1,2015,"San Francisco, CA",Enterprise Software & Network Solutions,"Formation provides personalization for the largest enterprise businesses in the world. We work with high volume data streams to deliver tailored experiences and orchestrate physical and digital exchanges into a seamless journey. Our Data Science Team is transforming the way people engage across multiple industries.
+
+You'll collaborate closely with engineers and share responsibility throughout the product life-cycle. You'll work in small, self-sufficient teams with a common goal: deliver excellent data science solutions anchored in a culture of quality, delivery, and innovation.
+
+As a Data Scientist at Formation you're capable of working in an agile data science environment to generate and test hypotheses quickly. You're also passionate about improving, optimizing, and developing new reinforcement learning (RL) strategies to enhance the value of our platform.
+
+Key Responsibilities:
+Apply RL and statistical analysis to complex, real-world problems through massive data sets
+Independently design, test, and productionize RL-based experimentation to refine customer strategies
+Collaborate with colleagues in product and customer success roles, sharing responsibility throughout the product life-cycle
+Ability to explore an unfamiliar and large data sets with big data tools such as Hive or Spark
+Present methodology and results to external stakeholders and Fortune 500 clients
+Skills and Experience:
+Minimum 2 years experience as a Data Scientist, prior software development experience is a plus
+Master's or Ph.D. in a relevant technical field (e.g. Computer Science, Mathematics, Statistics, Physics)
+Prior experience with RL frameworks such as TensorFlow or Vowpal Wabbit, and Spark is a plus
+Machine learning knowledge with a focus on contextual bandits, reinforcement learning, recommender systems, knowledge of common Data Science concepts related to e-commerce (e.g. lifetime value, net incremental revenue, churn) is a plus
+Demonstrated ability to communicate and collaborate with peers
+Demonstrated skills in result-driven problem solving
+About Formation
+
+Formation is the global leader in developing scalable solutions for individualized offers. We drive business results by building and deepening the relationship between big brands and their customers.
+
+We use artificial intelligence (AI) and machine learning (ML) algorithms to constantly analyze an audience and fine-tune offers. Our approach enables offers to become smarter and more effective with each customer interaction, resulting in a better experience.
+
+Formation strongly believes differing perspectives + passionate discourse achieve the greatest outcomes. We give our whole selves and we are building a team we can learn from. We are committed to inclusion and diversity and we are an equal opportunity employer. All applicants will receive consideration without regard to race, color, religion, gender, gender identity, sexual orientation, national origin, disability, or veteran status.
+
+Also, we are thrilled to be named one of the Top 50 startups by LinkedIn! Every member of our team makes Formation a special place to work and grow. Come join us and see for yourself!",Data Scientist,"San Francisco, CA",3.0,Unknown / Non-Applicable,$119K-$186K (Glassdoor Est.),Information Technology,51 to 200 employees,Company - Private
+"Fullpower Technologies, Inc.
+4.5",-1,2003,"Santa Cruz, CA",Computer Hardware & Software,"Fullpower® designs, develops and operates a complete platform for hybrid Edge/Cloud AI, algorithms, big data, predictive analytics, together with end-to-end engineering services. The Company’s platform is backed by a patent portfolio of 125+ patents. The Company’s key areas of expertise are bio-sensing, non-invasive PSG-level sleep technology. The Company’s markets are in Medical Solutions, Clinical Trials, SmartHome and Wearable. Fast growing with endless opportunities, come join the Fullpower world-class team.
+
+Fullpower is looking for a passionate, team-oriented, and self-motivated Data Scientist/Applied Mathematician.
+
+Responsibilities:
+Work with health data and time-series sensor data
+Design machine learning and statistical models and inference algorithms
+Develop visualizations and tools for understanding and annotating data
+Optimize algorithms for running on embedded devices and in the cloud
+Collaborate with an interdisciplinary team of scientists, engineers, mathematicians for quick deployment of solutions
+Software skills:
+Expertise in Python and packages such as Pandas, Scikit-learn, etc.
+Experience working with databases including familiarity with SQL
+Experience with a deep learning framework such as Tensorflow, pyTorch, or equivalent
+Experience with Amazon Web Services (AWS) or Google Cloud is a plus
+Leadership qualities:
+Self starter
+Strong interpersonal and communication skills
+Education:
+Bachelor’s degree or higher in Mathematics, Statistics, Physics, Computer Science, or equivalent
+Experience:
+Experience applying data science and machine learning to real-world problems
+Other requirements:
+Fullpower does not sponsor work visas - must already be authorized to work in the United States",Data Scientist / Applied Mathematician,"Santa Cruz, CA",4.5,£10 to £25 million (GBP),$119K-$186K (Glassdoor Est.),Information Technology,51 to 200 employees,Company - Private
+"Juniper Networks
+3.8",-1,1996,"Sunnyvale, CA",Telecommunications Services,"Sr. ML/Data Scientist - AI/NLP/Chatbot
+
+Mist, a Juniper Company, is the first vendor to bring enterprise-grade Wi-Fi, BLE and IoT together through a highly scalable cloud architecture. At Mist, we built the first AI-empowered platform to provide an unprecedented visibility into the user experience. Mist is the new global standard for many fortune 500 companies.
+
+The mission of the Data Science team at Mist is to leverage state-of-art ML and AI technologies to build the next-generation self-driving network solution, which can take actions on behalf of or together with human experts to automatically monitor, detect and remediate common network issues. The team includes a group of experienced and talented data scientists and data science engineers, and builds the end-to-end data analytics infrastructure and ML models of the product.
+
+Now we are looking for a Senior Data Scientist to help define and expand this mission. As a data scientist, you will collaborate with product managers and domain experts to identify use-impacting real customer problems, use your deep DS/ML knowledge to develop data-driven solution with terabytes data, and work closely with data engineers to implement and scale the models in production.
+
+Qualifications/Requirements:
+• MS or PhD in Computer Science, Electrical Engineering, Statistics, Applied Math or equivalent fields with strong mathematical background
+• Excellent understanding of machine learning techniques and algorithms, including clustering, anomaly detection, optimization, neural network etc
+• 3+ years experiences building data science-driven solutions including data collection, feature selection, model training, post-deployment validation
+• Strong hands-on coding skills (preferably in Python) processing large-scale data set and developing machine learning models
+• Familiar with one or more machine learning or statistical modeling tools such as Numpy, ScikitLearn, MLlib, Tensorflow
+• Good team worker with excellent communication skills written, verbal and presentation
+
+Desired Experience:
+• Experience with AWS, S3, Flink, Spark, Kafka, ElasticSearch
+• Knowledge and experience with NLP technology
+• Previous work in a start-up environment
+
+Juniper Networks is enrolled in E-Verify® and will be participating in E-Verify in addition to our Form I-9 process. www.dhs.gov/E-Verify
+Juniper Networks is an Equal Opportunity/Affirmative Action Employer.",Sr. ML/Data Scientist - AI/NLP/Chatbot,"Cupertino, CA",3.8,£2 to £5 billion (GBP),$119K-$186K (Glassdoor Est.),Telecommunications,5001 to 10000 employees,Company - Public
+"PicnicHealth
+4.8",-1,2014,"San Francisco, CA",Computer Hardware & Software,"PicnicHealth is a San Francisco-based, venture-backed health tech startup with the mission of empowering patients by giving them the ability to own, use, and share their medical history, to cure their disease. We give patients the first truly useful personal health record by collecting, abstracting, their medical history, and providing it back in a unified timeline. With our research collaborations, patients can contribute their anonymized medical data to create research registries -- which allow Academic and Life Science companies to better understand disease, and how it manifests in the real world.
+
+The Opportunity
+
+At PicnicHealth, biostatistics and data science are at the core of how we transform Real World Data (RWD) into insights for our research partners. We're seeking an experienced data scientist or biostatistician to deliver that insight on a daily basis to achieve both internal, and external research goals. Unlike clinical trial data, RWD is non-randomized, and has a unique set of challenges that you would be a key proponent in solving. As an early member of our Research team, you will have the flexibility and remit to work on all aspects of research product and scientific portfolio, bringing a lasting impact on the future of PicnicHealth.
+
+Our ideal team member will have biostatistical experience, with curiosity and ability to find creative solutions to meaningful clinical questions. You are an analytical thinker with experience working with RWD. You are excited by the prospect of rolling up your sleeves to tackle meaningful problems each and every day. You are a kind, passionate, and collaborative problem-solver who seeks and gives candid feedback. You are motivated to be amazing in your role and, ultimately, to improve patient care.
+
+As a Data Scientist / Biostatistician at PicnicHealth you will:
+Use PicnicHealth's large, multi-disease real-world dataset to answer some of the most critical clinical questions
+Become a subject matter expert on our data and its capabilities
+Transform real-world clinical data into actionable insights using machine learning, robust statistical methods, and compelling data visualizations in formats accessible to a wide range of end users
+Work with a cross-functional team to define and clarify analytic requirements, develop analysis plans, ensure data quality standards, and create publication-ready methods and results
+Generate ideas for analyses to shape future projects
+Collaborate with a team of clinicians, product managers, and software engineers to help develop, commercialize, and deliver analytics products
+Lead technical initiatives that further our understanding of RWD and methods to generate real world evidence
+Contribute to the growth and development of the PicnicHealth team by mentoring fellow team members and participating in recruitment efforts
+Develop and manage relationships with external partners (including life science companies, regulatory agencies, academic institutions, and health technology assessment bodies) to advance the integration of our analytic products through demonstrated value
+Publish scientific work in peer-reviewed journals
+You're a strong candidate if:
+You hold a Master's degree with 4 years of industry experience or PhD (or equivalent) in a quantitative discipline, such as biostatistics, epidemiology, applied statistics, health economics, or a related discipline
+You love working with data and have experience exploring it with a critical and thoughtful eye
+You are proficient in R/Python/SQL (or another programming language and are committed to becoming an expert in R/Python and SQL)
+You are an excellent communicator, both oral and written, and can effectively adapt your tone, content, and approach to diverse audiences
+You are self-motivated, flexible, proactive, and enjoy coming up with elegant and innovative solutions to challenging problems
+You know how to balance attention to detail with execution against tight timelines
+You are passionate about our grassroots patient-centric mission to improve healthcare through technology
+You are an ideal candidate if you also have experience:
+Consulting in the life sciences
+Working with longitudinal EMR data",Data Scientist / Biostatistician,"San Francisco, CA",4.8,Unknown / Non-Applicable,$119K-$186K (Glassdoor Est.),Information Technology,1 to 50 employees,Company - Private
